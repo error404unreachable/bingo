@@ -12,7 +12,7 @@ function fillInputs() {
  } else {
    alert("Invalid number...");
    }
-
+}
 /* let B3 = prompt("B-3:");
  if (B3 > 0 && B3 < 16) {
  document.getElementById("b3").innerHTML = B3;
