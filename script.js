@@ -13,7 +13,7 @@ function fillInputs() {
    alert("Invalid number...");
    }
 
- let B3 = prompt("B-3:");
+/* let B3 = prompt("B-3:");
  if (B3 > 0 && B3 < 16) {
  document.getElementById("b3").innerHTML = B3;
  } else {
@@ -176,5 +176,5 @@ let I5 = prompt("I-5:");
   document.getElementById("i5").innerHTML = I5;
   } else {
     alert("Invalid number...");
-    }
+    }*/
 }
