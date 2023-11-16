@@ -5,6 +5,35 @@ function fillInputs() {
   } else {
     alert("Invalid number...");
     }
+ 
+ let B2 = prompt("B-2:");
+ if (B2 > 0 && B2 < 16) {
+ document.getElementById("b2").innerHTML = B2;
+ } else {
+   alert("Invalid number...");
+   }
+
+ let B3 = prompt("B-2:");
+ if (B2 > 0 && B2 < 16) {
+ document.getElementById("b2").innerHTML = B2;
+ } else {
+   alert("Invalid number...");
+   }
+
+ let B2 = prompt("B-2:");
+ if (B2 > 0 && B2 < 16) {
+ document.getElementById("b2").innerHTML = B2;
+ } else {
+   alert("Invalid number...");
+   }
+
+ let B2 = prompt("B-2:");
+ if (B2 > 0 && B2 < 16) {
+ document.getElementById("b2").innerHTML = B2;
+ } else {
+   alert("Invalid number...");
+   }
+ 
   let I1 = prompt("I-1:");
   if (I1 > 0 && I1 < 16) {
   document.getElementById("i1").innerHTML = I1;
